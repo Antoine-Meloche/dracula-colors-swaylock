@@ -8,7 +8,7 @@ If you are a git user, you can install the theme and keep up to date by cloning 
 
 #### Install manually
 
-Download using the [GitHub .zip download](https://github.com/Antoine-Meloche/dracula-colors-swaylock/archive/swaylock.zip) option and unzip them.
+Download using the [GitHub .zip download](https://github.com/Antoine-Meloche/dracula-colors-swaylock/archive/main.zip) option and unzip them.
 
 #### Activating theme
 
